@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2026 Ryan P. Walsh
+ * Copyright (c) 2026 Sarah M Walsh
  * SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
  * Noncommercial use is free; commercial use requires a separate
  * license from the author. See LICENSE.
@@ -121,7 +121,7 @@
     for (const f of r.findings) {
       lines.push(`  [${f.kind}] chars ${f.start}-${f.end}: "${lastText.slice(f.start, Math.min(f.end, f.start + 40))}" — ${f.label}`);
     }
-    lines.push("", "Every signal above is a deterministic, documented rule (no AI model was used to produce this report).", "This report is informational only. It is not proof of authorship or misconduct, has a measured error rate (see repository README), and must not be the sole basis for any accusation, grade, or adverse action. Methodology: github.com/rpwalsh/slopblocker");
+    lines.push("", "Every signal above is a deterministic, documented rule (no AI model was used to produce this report).", "This report is informational only. It is not proof of authorship or misconduct, has a measured error rate (see repository README), and must not be the sole basis for any accusation, grade, or adverse action. Methodology: github.com/devgrrl/slopblocker");
     navigator.clipboard.writeText(lines.join("\n")).then(() => {
       copyBtn.textContent = "Copied ✓";
       setTimeout(() => { copyBtn.textContent = "Copy evidence report"; }, 1500);

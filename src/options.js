@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2026 Ryan P. Walsh
+ * Copyright (c) 2026 Sarah M Walsh
  * SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
  * Noncommercial use is free; commercial use requires a separate
  * license from the author. See LICENSE.

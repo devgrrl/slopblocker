@@ -1,7 +1,7 @@
 {
   "name": "slopblocker-local-release",
   "version": "2.0.0",
-  "author": "Ryan P. Walsh",
+  "author": "Sarah M Walsh",
   "license": "PolyForm-Noncommercial-1.0.0",
   "private": true,
   "description": "Local-first AI content signal highlighter for manual Chrome installation.",

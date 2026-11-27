@@ -32,7 +32,7 @@ SlopBlocker highlights signals; it does not judge people. Its output is probabil
 
 ## License
 
-Source-available under the [PolyForm Noncommercial License 1.0.0](LICENSE): free for personal, educational, research, and nonprofit use -- read it, run it, modify it, share it. **Commercial use requires a separate license from the author** (Ryan P. Walsh -- reach out via [GitHub](https://github.com/rpwalsh)). See [LICENSE.md](LICENSE.md) for the plain-words summary.
+Source-available under the [PolyForm Noncommercial License 1.0.0](LICENSE): free for personal, educational, research, and nonprofit use -- read it, run it, modify it, share it. **Commercial use requires a separate license from the author** (Sarah M Walsh -- reach out via [GitHub](https://github.com/devgrrl)). See [LICENSE.md](LICENSE.md) for the plain-words summary.
 
 
 ## Features
